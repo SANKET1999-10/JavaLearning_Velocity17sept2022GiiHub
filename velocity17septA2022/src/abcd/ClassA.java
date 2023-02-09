@@ -15,7 +15,6 @@ public class ClassA {
 				
 			}
 			System.out.println ();
-			
 		}
 	}
 	
